@@ -1,0 +1,5 @@
+SpeechRecognition
+requests
+Flask
+sentence-transformers
+PyAudio
